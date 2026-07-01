@@ -49,8 +49,6 @@ while (!string.IsNullOrWhiteSpace(content))
 
    try
    {
-      string Text = JsonSerializer.Serialize(request, jsonSerializerOptions);
-
       using var httpResponse = await httpClient.PostAsJsonAsync("chat/completions", request, jsonSerializerOptions);
       httpResponse.EnsureSuccessStatusCode();
 
