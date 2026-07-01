@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="JsonDocument/JsonDocument.csproj" />
+  <Project Path="StreamingDTOs/StreamingDTOs.csproj" Id="86421193-50c7-4de6-a09d-14f48d8f4b90" />
   <Project Path="TypedDTOs/TypedDTOs.csproj" />
   <Project Path="TypedDTOsGeneratedClient/TypedDTOsGeneratedClient.csproj" Id="91014d25-ea01-446b-a7df-1af0e65b3482" />
 </Solution>
