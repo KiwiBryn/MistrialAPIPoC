@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="JsonDocument/JsonDocument.csproj" />
   <Project Path="TypedDTOs/TypedDTOs.csproj" />
+  <Project Path="TypedDTOsGeneratedClient/TypedDTOsGeneratedClient.csproj" Id="91014d25-ea01-446b-a7df-1af0e65b3482" />
 </Solution>
